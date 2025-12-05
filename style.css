@@ -55,5 +55,11 @@ button:active {
   background-color: hsl(35, 100%, 75%);
 }
 .equals-btn {
-  background-color: rgb(1, 168, 1);
+  background-color: hsl(120, 99%, 33%);
+}
+.equals-btn:hover {
+  background-color: hsl(120, 99%, 43%);
+}
+.equals-btn:active {
+  background-color: hsl(120, 99%, 53%);
 }
